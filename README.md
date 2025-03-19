@@ -1,6 +1,3 @@
-# PictureThis
-Picture This: IT Communication Breakthroughs with Dixit Toolkit
-
 # IT Communication Toolkit: Bridging Minds Through Inclusive Strategies
 
 This toolkit is designed to help you continue applying the principles and techniques learned in our "Picture This: IT Communication Breakthroughs with Dixit" workshop. Use these resources to strengthen communication, embrace neurodiversity, and improve feedback in your IT team.
